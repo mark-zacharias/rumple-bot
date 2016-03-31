@@ -1,0 +1,31 @@
+{
+  "name": "rumple-bot",
+  "version": "0.1.0",
+  "description": "a slackbot that integrates with cobot's booking calendar",
+  "main": "bot.js",
+  "dependencies": {
+    "botkit": "0.0.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-zacharias/rumple-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "cobot",
+    "calendar"
+  ],
+  "author": "Mark Zak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mark-zacharias/rumple-bot/issues"
+  },
+  "homepage": "https://github.com/mark-zacharias/rumple-bot#readme"
+}
